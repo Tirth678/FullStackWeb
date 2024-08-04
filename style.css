@@ -49,3 +49,23 @@ a {
   font-weight: 400;
   font-style: normal;
 }
+#border {
+  border-top: 2px solid orange;
+  border-left: 2px solid orange;
+  border-right: 2px solid orange;
+  border-bottom: 2px solid orange;
+  padding: 20px;
+  margin: 20px;
+}
+
+#background {
+  height: 100vh;
+  background-color: black;
+  /* uniform resource locator */
+  background-image: url(https://images.unsplash.com/photo-1720048169707-a32d6dfca0b3?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-repeat: no-repeat;
+  /* this will cover the whole page */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}

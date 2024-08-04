@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap");
+
+/* selector {property}
+h1 {
+  color: blanchedalmond;
+}
+h3 {
+  color: rgb(255, 215, 0);
+}
+body {
+  background-color: #000000;
+} */
+/* section {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+div {
+  width: 40px;
+  height: 40px;
+  background-color: violet;
+} */
+
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bolder;
+  text-transform: capitalize;
+  text-transform: lowercase;
+  text-align: center;
+  text-decoration: line-through;
+  text-decoration: double;
+  text-decoration: overline;
+}
+p {
+  line-height: 30px;
+  /* word-spacing: 500px; */
+  /* letter-spacing: 40px; */
+  /* cursor: grab; */
+  cursor: alias;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.flint {
+  font-family: "Grey Qo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

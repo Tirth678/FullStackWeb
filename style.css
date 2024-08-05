@@ -82,4 +82,8 @@ div {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  /* filters */
+}
+body {
+  background-color: black;
 }

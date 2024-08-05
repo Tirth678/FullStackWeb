@@ -21,7 +21,7 @@ div {
   background-color: violet;
 } */
 
-h1 {
+/* h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-weight: bolder;
@@ -31,7 +31,7 @@ h1 {
   text-decoration: line-through;
   text-decoration: double;
   text-decoration: overline;
-}
+} */
 p {
   line-height: 30px;
   /* word-spacing: 500px; */
@@ -74,8 +74,8 @@ a {
 div {
   /* linear gradidant colors the image from top to bottom of the colors of your choice or you can add any type of color and any amount of colors you want to add */
   /* radial gradiant colors the image from left to right of the colors of your choice or with any numbers of colors you want to add of your choice */
-  background-image: url("https://plus.unsplash.com/premium_photo-1722254420199-da4cba75fd2e?q=80&w=2939&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
-  height: 100vh;
+  /* background-image: url("https://plus.unsplash.com/premium_photo-1722254420199-da4cba75fd2e?q=80&w=2939&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  height: 100vh; */
   /* width: 100vh; */
   background-repeat: no-repeat;
   background-size: cover;
@@ -86,5 +86,53 @@ div {
   /* filter: brightness(10%); */
   /* filter: contrast(10%); */
   /* filter: grayscale(100%); */
-  filter: grayscale(100%);
+  /* filter: grayscale(100%); */
+}
+
+/* advance selectors */
+/* to select a class we have to select . */
+/* to select a id we have to select #  */
+/* div p {
+  color: red;
+} */
+/* .link:link {
+  color: red;
+}
+.visited:visited {
+  color: gold;
+}
+.hover:hover {
+  color: aqua;
+}
+.active:active {
+  color: darkgoldenrod;
+} */
+/* span { */
+/* background-color: teal;
+  width or height dono nai lega
+  width: 200px;
+  height: 200px;
+  /* block ki jitni jagah lega */
+/* display: inline; */
+
+/* }
+section {
+  background-color: aquamarine;
+  width or height dono lega */
+/* width: 200px;
+  height: 200px;
+  display: inline;
+} */
+/* div {
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+  box-shadow: 10px 10px 20px red;
+} */
+
+body {
+  background-color: black;
+}
+h1 {
+  text-shadow: 2px 2px 2px red;
 }

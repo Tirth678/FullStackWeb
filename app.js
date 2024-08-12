@@ -16,4 +16,5 @@
 // }
 // let num = 5000;
 // console.log(add(num));
-console.log("hello mac!\n");
+// console.log("hello mac!\n");
+

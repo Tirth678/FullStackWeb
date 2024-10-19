@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:content-box;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 23px;
+}

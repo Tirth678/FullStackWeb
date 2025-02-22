@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: black;
+    height: 40px;    
+    padding-top: 5px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin: 110px;
+    font-weight: 25px;
+}
+button{
+    background-color: rgb(198, 198, 19);
+}
+#logo{
+    color: #f08804; 
+}

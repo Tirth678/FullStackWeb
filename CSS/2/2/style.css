@@ -21,3 +21,16 @@ button{
 #logo{
     color: #f08804; 
 }
+.content{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid black;
+}  
+#container{
+    display: inline;
+}
+footer{
+    text-align:center;
+    background-color: black;
+}
